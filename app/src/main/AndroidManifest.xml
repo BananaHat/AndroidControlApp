@@ -3,7 +3,7 @@
     package="com.electrocolorlabs.leds.ledcontroller.app">
 
     <application>
-        <activity android:name=".MainActivity">
+        <activity android:name=".androiddependant.MainActivity">
             <intent-filter android:order="1">
                 <action android:name="android.intent.action.VIEW" />
 
